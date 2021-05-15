@@ -10,3 +10,7 @@ dependencies:
          - wordcloud
          - matplotlib
          - imageio
+         - bokeh
+         - sklearn
+         - gensim
+         - scipy
