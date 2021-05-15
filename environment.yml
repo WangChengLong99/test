@@ -3,7 +3,6 @@ dependencies:
     -   pip:
          - pandas
          - numpy
-         - warnings
          - IPython
          - ipywidgets
          - jieba
