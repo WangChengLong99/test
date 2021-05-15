@@ -2,7 +2,7 @@ dependencies:
     -   python=3.7.3
     -   pip:
          - pandas
-         - numpy	
+         - numpy
          - warnings
          - IPython
          - ipywidgets
@@ -10,4 +10,4 @@ dependencies:
          - nltk
          - wordcloud
          - matplotlib
-         - imageio	
+         - imageio
