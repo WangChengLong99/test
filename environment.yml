@@ -14,3 +14,4 @@ dependencies:
          - sklearn
          - gensim
          - scipy
+         - pyLDAvis
